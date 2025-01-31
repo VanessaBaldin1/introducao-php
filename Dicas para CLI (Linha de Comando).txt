@@ -1,0 +1,28 @@
+# Dicas para CLI (Linha de Comando)
+
+## Comandos mais comuns
+
+dir ou ls	->	Ver o conteúdo de uma pasta/diretório
+cls ou clear	->	Limpar a tela
+cd		->	Entrar em um diretório
+cd..		->	Voltar/subir um nível de diretório
+cd\		->	Voltar para a raiz do diretório
+CTRL C		->	Para a execução completamente
+
+
+## Teste de PHP via CLI
+
+php -v
+
+Obs.: é necessário configurar a variável de ambiente PATH com o caminho do PHP (no nosso caso, C:\xampp\php)
+
+
+## Dica
+
+\n -> cria uma nova linha (coloca-se dentro da string)
+
+
+
+
+
+
